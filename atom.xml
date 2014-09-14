@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[import hindarwan.github.io.*;]]></title>
+  <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://hindarwan.github.io/atom.xml" rel="self"/>
   <link href="http://hindarwan.github.io/"/>
-  <updated>2013-10-06T17:15:29+07:00</updated>
+  <updated>2014-09-14T10:51:31+07:00</updated>
   <id>http://hindarwan.github.io/</id>
   <author>
-    <name><![CDATA[hindarwan]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
